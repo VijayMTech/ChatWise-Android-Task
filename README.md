@@ -56,7 +56,25 @@ Use Retrofit for calling API, Use RecyclerView to display data
            - Data Handling: Retrieves product information such as title, description, category, price, discount percentage, rating, stock, brand, and thumbnail                  image from the intent extras.
            - getRetrofitInstance(): This method returns a singleton instance of Retrofit, creating it if it doesn’t already exist.
              It configures Retrofit with the base URL and a Gson converter for parsing JSON responses into Java objects.
-   
+
+
+## Obtained Results after Running the Application
+
+**App Icon**
+  -   ![product_icon](https://github.com/user-attachments/assets/be4999c3-ab56-4fdd-9087-5ecb0430a396)
+
+**View Products Button**
+  -   ![viewbtn](https://github.com/user-attachments/assets/714118b8-4314-4c46-861d-8d03be1183ee)
+
+**ProductList Layout (Second screen)**
+  -   ![productlist](https://github.com/user-attachments/assets/abad3956-15aa-4caf-97c4-d0bbf74af3c5)
+
+**ProductDesciption Layout(Third screen)**
+  -   ![product_description_1](https://github.com/user-attachments/assets/f6a499ed-198c-4b14-a314-c58028cfb5f9)
+
+**Description of another product**
+  -   ![product_description_2](https://github.com/user-attachments/assets/0ee246a4-0ab4-43b3-8f22-c561f4c45154)
+
            
    
    
