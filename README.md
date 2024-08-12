@@ -47,6 +47,16 @@ Use Retrofit for calling API, Use RecyclerView to display data
            - This adapter manages different types of views within the RecyclerView, such as product titles and product details.
            - View Binding: Utilizes the ProductViewHolder to bind product data to the UI elements, including loading images using the Glide library
            - Intent Handling: Facilitates navigation to the ProductDetails activity by passing product details via intent when a product item is clicked.
+
+4) **ReterofitClient.java**
+      - **Code Functionality**
+           - The RetrofitClient class provides a singleton instance of Retrofit, a type-safe HTTP client for Android and Java.
+           - It is used to manage API calls within the application.
+           - **BASE_URL**: The base URL for the API endpoints is set to https://dummyjson.com/.
+           - Data Handling: Retrieves product information such as title, description, category, price, discount percentage, rating, stock, brand, and thumbnail                  image from the intent extras.
+           - getRetrofitInstance(): This method returns a singleton instance of Retrofit, creating it if it doesn’t already exist.
+             It configures Retrofit with the base URL and a Gson converter for parsing JSON responses into Java objects.
+   
            
    
    
