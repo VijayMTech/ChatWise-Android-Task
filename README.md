@@ -33,7 +33,21 @@ Use Retrofit for calling API, Use RecyclerView to display data
            - The class provides getters and setters for each attribute, enabling easy data manipulation and retrieval within the application.
            - This class is integral for managing and displaying product information across different screens of the app.
 
+2) **ProductList.java**
+      - **Code Functionality**
+           - The ProductList class serves as the main activity for displaying a list of products in an Android application.
+           - It utilizes a RecyclerView to present products retrieved from an API and manages the interaction between the user interface and the data source.
+           - RecyclerView Setup: Initializes a RecyclerView with a linear layout and binds it to a custom ProductAdapter, which manages the display of product    
+             items.
+           - Dynamic Data Loading: Fetches product data from a remote API using Retrofit. Upon successful retrieval, the data is added to the list and the adapter               is notified to update the UI.
 
+3) **ProductAdapter.java**
+      - **Code Functionality**
+           - The ProductAdapter class is a custom RecyclerView adapter designed to handle and display a list of products in an Android application.
+           - This adapter manages different types of views within the RecyclerView, such as product titles and product details.
+           - View Binding: Utilizes the ProductViewHolder to bind product data to the UI elements, including loading images using the Glide library
+           - Intent Handling: Facilitates navigation to the ProductDetails activity by passing product details via intent when a product item is clicked.
+           
    
    
    
