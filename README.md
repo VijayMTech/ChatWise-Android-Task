@@ -9,4 +9,8 @@ ANDROID/ IOS:
 5) Make sure there is only 1 recyclerview/ tableview with two types of items in the adapter/cell one for title Text and others for products list. 
 
 ## Refer to the Wireframe given in the task
-![Uploading sample_ui.png…]()![sample_ui](https://github.com/user-attachments/assets/8df5efbc-0739-4fd7-ba1a-4f0cea4ca431)
+![sample_ui](https://github.com/user-attachments/assets/8df5efbc-0739-4fd7-ba1a-4f0cea4ca431)
+
+## Download the UI and files that are used in this task [from here](https://drive.google.com/drive/folders/1aGS8Pa6D1tZ3p530wujpPtO6IYDv4By0?usp=drive_link)
+   
+   
