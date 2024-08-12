@@ -27,11 +27,11 @@ Use Retrofit for calling API, Use RecyclerView to display data
 
 ## Backend Java Code
 1) **Product.java**
-       - **Code Functionality**
-      --> The Product class is a model representing the essential details of a product in the ProductDetails Android application.
-      --> It includes various attributes like  id, title, description, category, price, discountPercentage, rating, images, thumbnail, stock, brand etcc.
-      --> The class provides getters and setters for each attribute, enabling easy data manipulation and retrieval within the application.
-      --> This class is integral for managing and displaying product information across different screens of the app.
+      - **Code Functionality**
+           - The Product class is a model representing the essential details of a product in the ProductDetails Android application.
+           - It includes various attributes like  id, title, description, category, price, discountPercentage, rating, images, thumbnail, stock, brand etc.
+           - The class provides getters and setters for each attribute, enabling easy data manipulation and retrieval within the application.
+           - This class is integral for managing and displaying product information across different screens of the app.
 
 
    
