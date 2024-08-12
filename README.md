@@ -20,10 +20,18 @@ API type: GET
 Use Retrofit for calling API, Use RecyclerView to display data 
 
 ## XML Layouts used
-1) **activity_main.xml** -- Main activity of the project where the View Button is implemented
+1) **activity_main.xml** -- Main activity of the project where  View Button is implemented
 2) **activity_productlist.xml** -- When the View Button is clicked the layout gets redirected to productlist layout where the item Recyclerview is implemented
 3) **item_product.xml** -- To display the Product thumbnail image, Product title and description of the product
 4) **activity_product_description.xml** -- This layout is used as the third layout to view the description and all the other details of the project
+
+## Backend Java Code
+1) **Product.java**
+       - **Code Functionality**
+      --> The Product class is a model representing the essential details of a product in the ProductDetails Android application.
+      --> It includes various attributes like  id, title, description, category, price, discountPercentage, rating, images, thumbnail, stock, brand etcc.
+      --> The class provides getters and setters for each attribute, enabling easy data manipulation and retrieval within the application.
+      --> This class is integral for managing and displaying product information across different screens of the app.
 
 
    
