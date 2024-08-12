@@ -19,11 +19,11 @@ API type: GET
 ## Notes(Android) 
 Use Retrofit for calling API, Use RecyclerView to display data 
 
-#XML Layouts used
-1) activity_main.xml -- Main activity of the project where the View Button is implemented
-2) activity_productlist.xml -- When the View Button is clicked the layout gets redirected to productlist layout where the item Recyclerview is implemented
-3) item_product.xml -- To display the Product thumbnail image, Product title and description of the product
-4) activity_product_description.xml -- This layout is used as the third layout to view the description and all the other details of the project
+## XML Layouts used
+1) **activity_main.xml** -- Main activity of the project where the View Button is implemented
+2) **activity_productlist.xml** -- When the View Button is clicked the layout gets redirected to productlist layout where the item Recyclerview is implemented
+3) **item_product.xml** -- To display the Product thumbnail image, Product title and description of the product
+4) **activity_product_description.xml** -- This layout is used as the third layout to view the description and all the other details of the project
 
 
    
