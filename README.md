@@ -75,6 +75,9 @@ Use Retrofit for calling API, Use RecyclerView to display data
 **Description of another product**
   -   ![product_description_2](https://github.com/user-attachments/assets/0ee246a4-0ab4-43b3-8f22-c561f4c45154)
 
+## Author
+## [Vijay J]  
+[vijayjayakumar20@gmail.com]
            
    
    
