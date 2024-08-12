@@ -11,6 +11,13 @@ ANDROID/ IOS:
 ## Refer to the Wireframe given in the task
 ![sample_ui](https://github.com/user-attachments/assets/8df5efbc-0739-4fd7-ba1a-4f0cea4ca431)
 
-## Download the UI and files that are used in this task [from here](https://drive.google.com/drive/folders/1aGS8Pa6D1tZ3p530wujpPtO6IYDv4By0?usp=drive_link)
+## Download the UI and files that are used in this task [Click here](https://drive.google.com/drive/folders/1aGS8Pa6D1tZ3p530wujpPtO6IYDv4By0?usp=drive_link)
+
+API to be used [](https://dummyjson.com/products) 
+API type: GET 
+
+## Notes(Android) 
+Use Retrofit for calling API, Use RecyclerView to display data 
+
    
    
