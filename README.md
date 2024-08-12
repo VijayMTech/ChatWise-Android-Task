@@ -61,19 +61,19 @@ Use Retrofit for calling API, Use RecyclerView to display data
 ## Obtained Results after Running the Application
 
 **App Icon**
-  -   ![product_icon](https://github.com/user-attachments/assets/be4999c3-ab56-4fdd-9087-5ecb0430a396)
+  -   ![picon](https://github.com/user-attachments/assets/f94bf5fe-bff5-4721-91f8-ca8b7af56a0f)
 
 **View Products Button**
-  -   ![viewbtn](https://github.com/user-attachments/assets/714118b8-4314-4c46-861d-8d03be1183ee)
+  -   ![view products](https://github.com/user-attachments/assets/014a3eaa-9971-432f-8caf-fa350bf55812)
 
 **ProductList Layout (Second screen)**
-  -   ![productlist](https://github.com/user-attachments/assets/abad3956-15aa-4caf-97c4-d0bbf74af3c5)
+  -   ![WhatsApp Image 2024-08-12 at 15 48 47](https://github.com/user-attachments/assets/48cae279-e53b-4e78-b2ab-7913d77f7d30)
 
 **ProductDesciption Layout(Third screen)**
-  -   ![product_description_1](https://github.com/user-attachments/assets/f6a499ed-198c-4b14-a314-c58028cfb5f9)
+  -   ![WhatsApp Image 2024-08-12 at 15 48 48](https://github.com/user-attachments/assets/56495065-98e8-4628-8445-c1a3e17c9162)
 
 **Description of another product**
-  -   ![product_description_2](https://github.com/user-attachments/assets/0ee246a4-0ab4-43b3-8f22-c561f4c45154)
+  -   ![WhatsApp Image 2024-08-12 at 15 48 49](https://github.com/user-attachments/assets/4c084b0c-9e15-443d-9fc3-675411c5b291)
 
 ## Note 
    Further more descriptions of the product can also be fetched from the given API with the help of the ReterofitClient and Backend Java Codes
