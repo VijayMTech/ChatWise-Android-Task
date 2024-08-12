@@ -13,7 +13,7 @@ ANDROID/ IOS:
 
 ## Download the UI and files that are used in this task [Click here](https://drive.google.com/drive/folders/1aGS8Pa6D1tZ3p530wujpPtO6IYDv4By0?usp=drive_link)
 
-API to be used [](https://dummyjson.com/products) 
+API to be used [https://dummyjson.com/products](https://drive.google.com/drive/folders/1aGS8Pa6D1tZ3p530wujpPtO6IYDv4By0?usp=drive_link)
 API type: GET 
 
 ## Notes(Android) 
